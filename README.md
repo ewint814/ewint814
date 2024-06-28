@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a Data Scientist with experience as an Associate Consultant and a background in Chemical and Biomolecular Engineering. Graduated General Assembly Immersive Data Science Bootcamp in June of 2024. These projects give a glimpse into some of the cool projects and skills I have leafrned throughout my Data Science journey.
+
+Proficient in SQL, Python, Mathcad, Matlab, Excel, and GraphPad Prism. Also enjoy playing basketball, football, golf, and pickleball, as well as traveling and hiking with my dog!
+
+
 <!--
 **ewint814/ewint814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
